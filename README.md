@@ -1,2 +1,2 @@
-# ICP_Lab_2
-Lab Assignment 2 for Intermediate Computer Programming
+# Hello world
+Hello world code that prints index 0 in addition
